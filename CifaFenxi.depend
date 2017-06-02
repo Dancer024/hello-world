@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1400319564 source:d:\code\compile\cifafenxi\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
